@@ -1,0 +1,228 @@
+2017-10-31 14:42:35 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.admin.language.1509464555): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 14:42:35 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 14:42:35 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 14:42:35 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 14:42:35 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 14:42:35 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 14:42:35 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.store.1509464555): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 14:42:35 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 14:42:35 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 14:42:35 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 14:42:35 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 14:42:35 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 14:45:52 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.admin.language.1509464752): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 14:45:52 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 14:45:52 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 14:45:52 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 14:45:52 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 14:45:52 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 14:45:52 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.store.1509464752): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 14:45:52 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 14:45:52 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 14:45:52 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 14:45:52 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 14:45:52 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 14:46:08 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.admin.language.1509464768): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 14:46:08 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 14:46:08 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 14:46:08 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 14:46:08 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 14:46:08 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 14:46:08 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.store.1509464768): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 14:46:08 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 14:46:08 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 14:46:08 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 14:46:08 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 14:46:08 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 14:46:53 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.admin.language.1509464813): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 14:46:53 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 14:46:53 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 14:46:53 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 14:46:53 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 14:46:53 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 14:46:53 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.store.1509464813): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 14:46:53 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 14:46:53 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 14:46:53 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 14:46:53 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 14:46:53 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 14:50:46 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.admin.language.1509465046): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 14:50:46 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 14:50:46 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 14:50:46 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 14:50:46 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 14:50:46 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 14:50:46 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.store.1509465046): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 14:50:46 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 14:50:46 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 14:50:46 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 14:50:46 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 14:50:46 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 15:07:25 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.admin.language.1509466045): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 15:07:25 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 15:07:25 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 15:07:25 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 15:07:25 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 15:07:25 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 15:07:25 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.store.1509466045): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 15:07:25 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 15:07:25 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 15:07:25 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 15:07:25 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 15:07:25 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 15:15:41 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.admin.language.1509466541): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 15:15:41 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 15:15:41 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 15:15:41 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 15:15:41 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 15:15:41 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 15:15:41 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.store.1509466541): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 15:15:41 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 15:15:41 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 15:15:41 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 15:15:41 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 15:15:41 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 15:28:43 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.admin.language.1509467323): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 15:28:43 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 15:28:43 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 15:28:43 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 15:28:43 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 15:28:43 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 15:28:43 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.store.1509467323): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 15:28:43 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 15:28:43 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 15:28:43 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 15:28:43 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 15:28:43 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 15:48:21 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.admin.language.1509468501): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 15:48:21 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 15:48:21 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 15:48:21 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 15:48:21 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 15:48:21 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 15:48:21 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.store.1509468501): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 15:48:21 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 15:48:21 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 15:48:21 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 15:48:21 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 15:48:21 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 15:58:06 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.admin.language.1509469086): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 15:58:06 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 15:58:06 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 15:58:06 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 15:58:06 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 15:58:06 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 15:58:06 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.store.1509469086): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 15:58:06 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 15:58:06 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 15:58:06 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 15:58:06 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 15:58:06 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 16:00:01 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.admin.language.1509469201): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 16:00:01 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 16:00:01 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 16:00:01 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 16:00:01 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 16:00:01 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 16:00:01 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.store.1509469201): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 16:00:01 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 16:00:01 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 16:00:01 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 16:00:01 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 16:00:01 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 16:01:06 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.admin.language.1509469266): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 16:01:06 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 16:01:06 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 16:01:06 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 16:01:06 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 16:01:06 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 16:01:06 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.store.1509469266): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 16:01:06 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 16:01:06 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 16:01:06 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 16:01:06 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 16:01:06 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 16:02:11 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.admin.language.1509469331): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 16:02:11 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 16:02:11 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 16:02:11 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 16:02:11 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 16:02:11 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 16:02:11 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.store.1509469331): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 16:02:11 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 16:02:11 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 16:02:11 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 16:02:11 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 16:02:11 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 16:05:07 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.admin.language.1509469507): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 16:05:07 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 16:05:07 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 16:05:07 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 16:05:07 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 16:05:07 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 16:05:07 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.store.1509469507): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 16:05:07 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 16:05:07 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 16:05:07 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 16:05:07 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 16:05:07 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 16:09:05 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.admin.language.1509469745): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 16:09:05 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 16:09:05 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 16:09:05 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 16:09:05 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 16:09:05 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 16:09:05 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.store.1509469745): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 16:09:05 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 16:09:05 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 16:09:05 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 16:09:05 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 16:09:05 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 16:10:39 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.admin.language.1509469839): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 16:10:39 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 16:10:39 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 16:10:39 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 16:10:39 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 16:10:39 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 16:10:39 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.store.1509469839): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 16:10:39 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 16:10:39 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 16:10:39 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 16:10:39 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 16:10:39 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 16:11:35 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.admin.language.1509469895): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 16:11:35 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 16:11:35 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 16:11:35 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 16:11:35 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 16:11:35 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 16:11:35 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.store.1509469895): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 16:11:35 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 16:11:35 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 16:11:35 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 16:11:35 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 16:11:35 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 16:12:41 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.admin.language.1509469961): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 16:12:41 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 16:12:41 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 16:12:41 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 16:12:41 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 16:12:41 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 16:12:41 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.store.1509469961): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 16:12:41 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 16:12:41 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 16:12:41 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 16:12:41 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 16:12:41 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 16:15:02 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.admin.language.1509470102): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 16:15:02 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 16:15:02 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 16:15:02 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 16:15:02 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 16:15:02 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59
+2017-10-31 16:15:02 - PHP Warning:  fopen(/var/www/html/oc3/storage/cache/cache.store.1509470102): failed to open stream: No such file or directory in /var/www/html/oc3/system/library/cache/file.php on line 49
+2017-10-31 16:15:02 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 51
+2017-10-31 16:15:02 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 53
+2017-10-31 16:15:02 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 55
+2017-10-31 16:15:02 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 57
+2017-10-31 16:15:02 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/oc3/system/library/cache/file.php on line 59

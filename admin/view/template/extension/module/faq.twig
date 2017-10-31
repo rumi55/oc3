@@ -1,0 +1,141 @@
+{{ header }}{{ column_left }}
+<div id="content"><div class="container-fluid">
+	<div class="page-header">
+	    <h1>{{title}}</h1>
+	    <ul class="breadcrumb"> 
+		     {% for breadcrumb in breadcrumbs %}
+		      <li><a href="{{ breadcrumb.href }}">{{ breadcrumb.text }}</a></li>
+		     {% endfor %}
+	    </ul>
+	  </div>
+    
+   <link href='https://fonts.googleapis.com/css?family=Poppins:700,600,500,400,300' rel='stylesheet' type='text/css'>
+    
+	<script type="text/javascript">
+	$.fn.tabs = function() {
+		var selector = this;
+		
+		this.each(function() {
+			var obj = $(this); 
+			
+			$(obj.attr('href')).hide();
+			
+			$(obj).click(function() {
+				$(selector).removeClass('selected');
+				
+				$(selector).each(function(i, element) {
+					$($(element).attr('href')).hide();
+				});
+				
+				$(this).addClass('selected');
+				
+				$($(this).attr('href')).show();
+				
+				return false;
+			});
+		});
+	
+		$(this).show();
+		
+		$(this).first().click();
+	};
+	</script>
+	{% if error_warning %}
+		<div class="alert alert-danger"><i class="fa fa-exclamation-circle"></i> {{error_warning}}
+		  <button type="button" class="close" data-dismiss="alert">&times;</button>
+		</div>
+	{% endif %} 
+	{% if(success) %}
+		<div class="alert alert-success"><i class="fa fa-exclamation-circle"></i> {{success}}
+			<button type="button" class="close" data-dismiss="alert">&times;</button>
+		</div>
+	{% endif %}
+	
+	<div class="alert alert-info"><i class="fa fa-exclamation-circle"></i>
+        The FAQ page is available at this <a target="_blank" href="{{front_url}}">link</a>
+			<button type="button" class="close" data-dismiss="alert">&times;</button>
+    </div>
+	{% set element = 1%}
+	{% set section = 1%}
+	
+		<form action="{{action}}" method="post" enctype="multipart/form-data" id="form">
+			
+			<div class="set-size" id="faq">
+				<div class="content">
+						<div>
+							<div class="tabs clearfix">
+								<div id="tab-module" class="tab-content">
+									<div id="tabs_faq" class="htabs tabs-product">
+										<a href="#tab_faq_item" class="ttab"><span>Module<br> items</span></a>
+										<a href="#tab_faq_section" class="ttab"><span>Module<br> sections</span></a>
+										<a href="#tab_faq_setting" class="tsetting"><span>Module<br> setting</span></a>
+									</div>
+									
+									
+									
+									<div id="tab_faq_section" style="padding:20px">
+									<table class="tabs-list">
+										<thead>
+											<tr>
+												<td class="first">Title</td>
+												<td class="text-center">No display title</td>
+												<td class="text-center">Sort</td>
+												<td class="text-center">Remove</td>
+											</tr>
+										</thead>
+										{% if module['sections'] is defined %}
+											{% for tab in module['sections'] %}
+											<tbody id="module-sections-{{tab['id']}}">
+											<tr>
+												<td class="first">
+													<input type="hidden" name="faq_module[sections][{{section}}][id]" value="{% if isset({{ tab['id']}} ) %} {{ tab['id'] }}" >
+													{% for language in languages %} {% set lang_id = language['language_id'] %}
+													<div class="language"><img src="language/{{ language['code'] }}/{{ language['code'] }}.png" title="{{ language['name'] }}"/>
+														<input type="text" name="faq_module[sections][{{section}}][title][{{ language['language_id'] }}]" value="{% if isset(tab['title'][{{lang_id}}]) %}  {% tab['title'][{{lang_id}}] %}" >
+													</div>
+													{% endfor %}
+												</td>
+											</tr>
+											</tbody>
+											{% set section=section+1 %}		
+											{% endfor %}
+										{% endif %}
+										<tfoot></tfoot>
+									</table>
+									<a onclick="addSections();" class="add-module"><span>Add <br> item</span></a>
+								</div>
+								
+									<div id="tab_faq_setting" style="padding:20px">
+										<table class="form">
+											<tr>
+												<td>Collapse:</td>
+												<td>
+													<select name="faq_module[settings][collapse]">
+														{% if module['settings']['collapse'] %}
+														<option value="1" selected="selected">Enabled</option>
+														<option value="0">Disabled</option>
+														{% else %}
+														<option value="1">Enabled</option>
+														<option value="0" selected="selected">Disabled</option>
+														{% endif %}
+													</select>
+												</td>
+											</tr>
+										</table>
+									</div>
+								</div>
+									<script type="text/javascript">
+									$('#tabs_faq a').tabs();
+									</script>
+
+							</div>
+							<!-- Buttons -->
+							<div class="buttons"><input type="submit" name="button-save" class="button-save" value="Save"></div>
+						</div>
+				</div>
+			</div>
+			
+		</form>
+	
+</div>
+{{ footer }}

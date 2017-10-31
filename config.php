@@ -6,10 +6,10 @@ define('HTTP_SERVER', 'http://localhost/oc3/');
 define('HTTPS_SERVER', 'http://localhost/oc3/');
 
 // DIR
-define('DIR_APPLICATION', '/Library/WebServer/Documents/oc3/catalog/');
-define('DIR_SYSTEM', '/Library/WebServer/Documents/oc3/system/');
-define('DIR_IMAGE', '/Library/WebServer/Documents/oc3/image/');
-define('DIR_STORAGE', DIR_SYSTEM . 'storage/');
+define('DIR_APPLICATION', '/var/www/html/oc3/catalog/');
+define('DIR_SYSTEM', '/var/www/html/oc3/system/');
+define('DIR_IMAGE', '/var/www/html/oc3/image/');
+define('DIR_STORAGE', '/var/www/html/oc3/storage/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/theme/');
 define('DIR_CONFIG', DIR_SYSTEM . 'config/');
@@ -24,7 +24,7 @@ define('DIR_UPLOAD', DIR_STORAGE . 'upload/');
 define('DB_DRIVER', 'mysqli');
 define('DB_HOSTNAME', 'localhost');
 define('DB_USERNAME', 'root');
-define('DB_PASSWORD', 'dhanvi');
+define('DB_PASSWORD', 'atx');
 define('DB_DATABASE', 'oc3');
 define('DB_PORT', '3306');
 define('DB_PREFIX', 'oc_');
